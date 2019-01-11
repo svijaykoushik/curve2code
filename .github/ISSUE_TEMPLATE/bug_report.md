@@ -36,3 +36,7 @@ If applicable, add screenshots to help explain your problem.
 
 **Additional context**
 Add any other context about the problem here.
+
+** Before you submit**
+ - [ ] I have read the **CONTRIBUTING** guidelines
+ - [ ] I have checked the [issues](https://github.com/svijaykoushik/curve2code/issues) in the project and ensured that I'm not submitting a duplicate request
