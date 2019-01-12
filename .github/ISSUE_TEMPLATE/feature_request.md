@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: ''
+labels: 'enhancement'
 assignees: ''
 
 ---
@@ -18,3 +18,7 @@ A clear and concise description of any alternative solutions or features you've 
 
 **Additional context**
 Add any other context or screenshots about the feature request here.
+
+** Before you submit**
+ - [ ] I have read the **CONTRIBUTING** guidelines
+ - [ ] I have checked the [issues](https://github.com/svijaykoushik/curve2code/issues) in the project and ensured that I'm not submitting a duplicate request
