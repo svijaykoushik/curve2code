@@ -33,7 +33,7 @@ A clear and concise explanation of how your change(s) helps the project.
 **Additional information**
 Another additional information about the change(s) made.
 
-**Before you finish**
+**Before you submit**
  - [ ] I have read the **CONTRIBUTING** guidelines
  - [ ] I have read the **CODE OF CONDUCT** of this project
  - [ ] My code follows the code style used in this project
