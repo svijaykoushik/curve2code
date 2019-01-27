@@ -18,16 +18,16 @@ You can create an issue when
 
 1. Something is not working as described in the project.
 2. Something is not working as you expected it to work.
-3. Suggesting an idea that can improve the project.
+3. Suggesting an idea for a new feature or for an enhancement that can improve the project.
 
 ### Choosing an issue template
 
 Curve2Code provides two types of templates on the project's [issue page](https://github.com/svijaykoushik/curve2code/issues) to choose from
 
 1. Template for bug reporting and
-2. Template for suggesting enhancements and new ideas.
+2. Template for suggesting enhancements, new ideas and new features.
 
-You can choose the template which suits your issue(s) or choose to submit a regular issue template if your issue(s) don't fit in these two template.
+You can choose the template which suits your issue(s) or choose to submit a regular issue template if your issue(s) don't fit in these two templates.
 
 ### Guidelines to open an issue
 
@@ -40,7 +40,11 @@ Irrespective of the type of issue, all issues should follow these guidelines
 
 ## Submitting changes
 
-You can submit bug fixes and enhancements to the project by creating a "Pull request".
+You can submit bug fixes and enhancements to the project by
+
+* cloning the project
+* Make your change(s).
+* Propose your change(s) by creating a "Pull Request".
 
 ### Before you start
 
@@ -67,7 +71,7 @@ You must
 ```
     Commit message: (issue #1234) Adding contribution guidelines to the project`
 
-    Description: Without the contributing guidelines the contributors would confused on how to get started on contributing to this project. This patch would help contributors gain knowledge on the internal workflow and project guidelines to be followed.
+    Description:  Without the contributing guidelines the contributors would have no idea on how to get started to contribute to this project. This patch would help contributors gain knowledge on the internal workflow and project guidelines to be followed.
 ```
 
 * It is necessary to follow the JavaScript ES7 standard while making changes to the JavaScript files.
